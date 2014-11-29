@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="uid">ap-spanish-75cc5a10-27a8-4cfe-bfcb-eb77022840af</dc:identifier>
-    <dc:title>Snoek's AP Spanish Language &amp; Culture</dc:title>
+    <dc:title>Snoek's Spanish (compatible with AP® Spanish Language &amp; Culture)</dc:title>
       <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2014-11-29</date>
     <dc:language xmlns:xsi="http://www.idpf.org/2007/opf" xsi:type="dcterms:RFC4646">en</dc:language>
     <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2014-11-29</meta>
